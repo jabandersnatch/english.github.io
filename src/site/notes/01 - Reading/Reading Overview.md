@@ -210,7 +210,7 @@ Key areas to study / Áreas clave para estudiar:
 ## 🎓 Study Resources / Recursos de Estudio
 
 Practice materials / Materiales de práctica:
-- [[07 - Practice Tests\|Practice Tests]] - Full reading tests
+- [[Practice Test Overview\|Practice Tests]] - Full reading tests
 - [[Reading Practice Exercises\|Reading Practice Exercises]] - Individual part practice
 - **External resources:**
   - Cambridge official practice materials
@@ -247,9 +247,9 @@ After practicing, ask yourself / Después de practicar, pregúntate:
 - [[Vocabulary Building for Reading\|Vocabulary Building for Reading]]
 
 ### Other Skills / Otras Habilidades:
-- [[02 - Writing\|Writing Section]]
-- [[03 - Listening\|Listening Section]]
-- [[04 - Speaking\|Speaking Section]]
+- [[02 - Writing/Writing Overview\|Writing Section]]
+- [[03 - Listening/Listening Overview\|Listening Section]]
+- [[04 - Speaking/Speaking Overview\|Speaking Section]]
 
 ---
 

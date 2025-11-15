@@ -12,14 +12,14 @@
 ```
 📁 English Pet Overview/
 ├── 📂 00 - Start Here (Empezar aquí)
-├── 📂 01 - Reading (Lectura)
-├── 📂 02 - Writing (Escritura)
-├── 📂 03 - Listening (Comprensión Auditiva)
-├── 📂 04 - Speaking (Expresión Oral)
-├── 📂 05 - Grammar (Gramática)
-├── 📂 06 - Vocabulary (Vocabulario)
-├── 📂 07 - Practice Tests (Exámenes de Práctica)
-└── 📂 08 - Resources (Recursos)
+├── 📂 Reading Overview (Lectura)
+├── 📂 Writing Overview (Escritura)
+├── 📂 Listening Overview (Comprensión Auditiva)
+├── 📂 Speaking Overview (Expresión Oral)
+├── 📂 Grammar Overview (Gramática)
+├── 📂 Vocabulary Overview (Vocabulario)
+├── 📂 Practice Test Overview (Exámenes de Práctica)
+└── 📂 Resources Overview (Recursos)
 ```
 
 ## 📚 Study Workflow / Flujo de Estudio
@@ -37,7 +37,7 @@
    - Take notes in your own words
 
 3. **Practice / Practicar:**
-   - Use [[07 - Practice Tests\|Practice Tests]]
+   - Use [[Practice Test Overview\|Practice Tests]]
    - Apply what you learned
    - Review mistakes
 

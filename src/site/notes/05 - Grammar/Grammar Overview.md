@@ -236,9 +236,9 @@ Can you:
 
 ## 📚 Additional Resources
 
-- Practice all grammar in [[07 - Practice Tests\|07 - Practice Tests]]
-- See grammar in context in [[06 - Vocabulary\|06 - Vocabulary]]
-- Use [[08 - Resources\|grammar reference books]]
+- Practice all grammar in [[Practice Test Overview\|Practice Test Overview]]
+- See grammar in context in [[06 - Vocabulary/Vocabulary Overview\|Vocabulary Overview]]
+- Use [[Resources Overview\|grammar reference books]]
 
 ---
 

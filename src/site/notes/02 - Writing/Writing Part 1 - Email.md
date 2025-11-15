@@ -387,15 +387,15 @@ Before submitting your email, check / Antes de entregar, verifica:
 - [[Useful Phrases for Emails\|Useful Phrases for Emails]]
 - [[Common Email Topics\|Common Email Topics]]
 - [[Email Writing Checklist\|Email Writing Checklist]]
-- [[05 - Grammar\|Grammar Section]]
-- [[06 - Vocabulary\|Vocabulary Section]]
+- [[05 - Grammar/Grammar Overview\|Grammar Section]]
+- [[06 - Vocabulary/Vocabulary Overview\|Vocabulary Section]]
 
 
 ## 📚 Additional Resources / Recursos Adicionales
 
 Practice materials in:
-- [[07 - Practice Tests\|Practice Tests Folder]]
-- [[08 - Resources\|Writing Templates]]
+- [[Practice Test Overview\|Practice Tests Folder]]
+- [[Resources Overview\|Writing Templates]]
 
 
 🏠 [[00 - Start Here/🏠 Home - Inicio\|Back to Home]] | [[02 - Writing/Writing Overview\|Back to Writing Overview]]

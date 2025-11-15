@@ -9,16 +9,12 @@
 
 > The Writing section tests your ability to write clear and well-structured texts in English.
 
----
-
 ## ⏱️ Exam Details / Detalles del Examen
 
 - **Time / Tiempo:** 45 minutes total
 - **Tasks / Tareas:** 2 tasks
 - **Word count / Palabras:** ~100 words per task
 - **Score / Puntuación:** 25% of total exam score
-
----
 
 ## 📋 Writing Parts Structure / Estructura de las Partes
 
@@ -39,7 +35,6 @@
 - Organisation (5 marks) / Organización
 - Language (5 marks) / Lenguaje
 
----
 
 ### [[02 - Writing/Writing Part 2 - Article\|Part 2: Article]] (OPTION 1 / OPCIÓN 1)
 **Task / Tarea:**
@@ -53,7 +48,6 @@
 - Clear paragraphs / Párrafos claros
 - Personal opinion / Opinión personal
 
----
 
 ### [[02 - Writing/Writing Part 2 - Story\|Part 2: Story]] (OPTION 2 / OPCIÓN 2)
 **Task / Tarea:**
@@ -67,7 +61,6 @@
 - Past tenses / Tiempos pasados
 - Descriptive language / Lenguaje descriptivo
 
----
 
 ## 🎯 Assessment Criteria / Criterios de Evaluación
 
@@ -79,7 +72,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
 
 **Tip / Consejo:** 🇪🇸 Responde TODOS los puntos en el prompt. Si falta uno, pierdes puntos.
 
----
 
 ### 2. **Communicative Achievement (0-5 marks) / Logro Comunicativo**
 - Is the style appropriate for the task?
@@ -89,7 +81,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
 **For articles:** Engaging, interesting style
 **For stories:** Entertaining, engaging narrative
 
----
 
 ### 3. **Organisation (0-5 marks) / Organización**
 - Is the text well organized?
@@ -102,7 +93,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
 - Logical flow
 - Good use of connectors
 
----
 
 ### 4. **Language (0-5 marks) / Lenguaje**
 - Range of vocabulary and grammar
@@ -110,7 +100,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
 
 **Note / Nota:** You need BOTH variety and accuracy!
 
----
 
 ## 💡 General Writing Strategies / Estrategias Generales
 
@@ -129,8 +118,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
    - Formal vs informal
    - Vocabulary for the topic
 
----
-
 ### While Writing / Mientras Escribes:
 
 1. **Follow your plan**
@@ -147,8 +134,6 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
    - 90-110 is acceptable
    - Don't go too far under or over
 
----
-
 ### After Writing / Después de Escribir:
 
 **ALWAYS leave 5 minutes to check! / ¡SIEMPRE deja 5 minutos para revisar!**
@@ -158,23 +143,19 @@ All tasks are marked on 4 criteria / Todas las tareas se evalúan con 4 criterio
 3. **Language:** Check spelling, grammar, punctuation
 4. **Length:** Count words (approximately)
 
----
-
 ## ⏰ Time Management / Gestión del Tiempo
 
 Suggested timing / Tiempo sugerido:
 
-| Activity | Part 1 (Email) | Part 2 (Article/Story) |
-|----------|----------------|------------------------|
-| Read & Plan | 3-4 min | 3-4 min |
-| Write | 12-14 min | 12-14 min |
-| Check | 3 min | 3 min |
-| **TOTAL** | **~20 min** | **~20 min** |
-| Reserve | 5 min for final check |
+| Activity    | Part 1 (Email)        | Part 2 (Article/Story) |
+| ----------- | --------------------- | ---------------------- |
+| Read & Plan | 3-4 min               | 3-4 min                |
+| Write       | 12-14 min             | 12-14 min              |
+| Check       | 3 min                 | 3 min                  |
+| **TOTAL**   | **~20 min**           | **~20 min**            |
+| Reserve     | 5 min for final check |                        |
 
 **Total: 45 minutes**
-
----
 
 ## 📝 Word Count Guidance / Guía de Cantidad de Palabras
 
@@ -188,8 +169,6 @@ Suggested timing / Tiempo sugerido:
 **Tip / Consejo:**
 - 🇪🇸 No cuentes cada palabra en el examen. Con práctica, sabrás aproximadamente cuánto es 100 palabras.
 - Don't count every word in the exam. With practice, you'll know roughly what 100 words looks like.
-
----
 
 ## ✅ Dos and Don'ts / Hacer y No Hacer
 
@@ -213,8 +192,6 @@ Suggested timing / Tiempo sugerido:
 - ❌ Leave out any prompt points
 - ❌ Forget to check your work
 
----
-
 ## 🔑 Key Language Areas / Áreas Clave del Lenguaje
 
 ### 1. **Connectors / Conectores**
@@ -236,8 +213,6 @@ Mix different types:
 - Compound: "I love reading and I visit the library often."
 - Complex: "I love reading because it helps me relax."
 
----
-
 ## 📚 Common Topics / Temas Comunes
 
 Be prepared to write about:
@@ -252,8 +227,6 @@ Be prepared to write about:
 - 🎬 **Entertainment** / Entretenimiento
 - 💼 **Work and future plans** / Trabajo y planes futuros
 
----
-
 ## 📖 Self-Assessment Questions / Preguntas de Autoevaluación
 
 After practicing, ask yourself / Después de practicar, pregúntate:
@@ -261,7 +234,6 @@ After practicing, ask yourself / Después de practicar, pregúntate:
 **Content / Contenido:**
 - ✅ Did I answer all the points?
 - ✅ Is my content relevant?
-
 **Organisation / Organización:**
 - ✅ Are my paragraphs clear?
 - ✅ Is there a logical flow?
@@ -275,8 +247,6 @@ After practicing, ask yourself / Después de practicar, pregúntate:
 **Style / Estilo:**
 - ✅ Is my style appropriate for the task?
 - ✅ Would a reader find it engaging?
-
----
 
 ## 🎯 How to Practice / Cómo Practicar
 
@@ -305,8 +275,6 @@ After practicing, ask yourself / Después de practicar, pregúntate:
    - If vocabulary is limited → learn topic vocabulary
    - If organisation is poor → practice paragraph structure
 
----
-
 ## 🔗 Related Notes / Notas Relacionadas
 
 ### Writing Parts / Partes de Escritura:
@@ -322,15 +290,13 @@ After practicing, ask yourself / Después de practicar, pregúntate:
 - [[Common Writing Mistakes\|Common Writing Mistakes]]
 
 ### Practice / Práctica:
-- [[Writing Templates\|Writing Templates]] - In [[08 - Resources\|08 - Resources]]
-- [[07 - Practice Tests\|Practice Tests]]
+- [[Writing Templates\|Writing Templates]] - In [[Resources Overview\|Resources Overview]]
+- [[Practice Test Overview\|Practice Tests]]
 
 ### Other Skills / Otras Habilidades:
-- [[01 - Reading\|Reading Section]]
-- [[03 - Listening\|Listening Section]]
-- [[04 - Speaking\|Speaking Section]]
-
----
+- [[01 - Reading/Reading Overview\|Reading Section]]
+- [[03 - Listening/Listening Overview\|Listening Section]]
+- [[04 - Speaking/Speaking Overview\|Speaking Section]]
 
 **Next step / Siguiente paso:** Study each writing task in detail, starting with [[02 - Writing/Writing Part 1 - Email\|Writing Part 1 - Email]].
 

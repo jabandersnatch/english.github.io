@@ -389,9 +389,9 @@ After practicing, ask yourself / Después de practicar, pregúntate:
 - [[Spelling Practice\|Spelling Practice]]
 
 ### Other Skills / Otras Habilidades:
-- [[01 - Reading\|Reading Section]]
-- [[02 - Writing\|Writing Section]]
-- [[04 - Speaking\|Speaking Section]]
+- [[01 - Reading/Reading Overview\|Reading Section]]
+- [[02 - Writing/Writing Overview\|Writing Section]]
+- [[04 - Speaking/Speaking Overview\|Speaking Section]]
 
 ---
 

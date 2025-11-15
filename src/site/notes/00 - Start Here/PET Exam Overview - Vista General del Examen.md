@@ -129,11 +129,11 @@ The exam has **4 papers** / El examen tiene **4 secciones**:
 
 ### Grammar / Gramática
 - [[05 - Grammar/Grammar Overview\|All B1 level grammar]] - Present, past, perfect tenses, modals, conditionals, etc.
-- See [[05 - Grammar\|05 - Grammar]] folder for detailed topics
+- See [[05 - Grammar/Grammar Overview\|Grammar Overview]] folder for detailed topics
 
 ### Vocabulary / Vocabulario
 - [[06 - Vocabulary/Vocabulary Overview\|Topic-based vocabulary]] - Daily life, travel, work, hobbies, etc.
-- See [[06 - Vocabulary\|06 - Vocabulary]] folder with Spanish translations
+- See [[06 - Vocabulary/Vocabulary Overview\|Vocabulary Overview]] folder with Spanish translations
 
 ### Topics / Temas
 Common exam topics include:
@@ -167,8 +167,8 @@ Common exam topics include:
 
 1. **Start with** [[00 - Start Here/Study Plan - Plan de Estudio\|the study plan]]
 2. **Review each section** systematically
-3. **Practice with** [[07 - Practice Tests\|practice tests]]
-4. **Use the** [[05 - Grammar\|grammar]] and [[06 - Vocabulary\|vocabulary]] sections regularly
+3. **Practice with** [[Practice Test Overview\|practice tests]]
+4. **Use the** [[05 - Grammar/Grammar Overview\|grammar]] and [[06 - Vocabulary/Vocabulary Overview\|vocabulary]] sections regularly
 5. **Follow the links** between related topics
 
 ---

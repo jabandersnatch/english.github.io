@@ -341,7 +341,7 @@ A) seeing  B) watching  C) looking  D) waiting
 - [[Phrasal Verbs for Reading\|Phrasal Verbs for Reading]]
 - [[Make vs Do\|Make vs Do]]
 - [[Preposition Combinations\|Preposition Combinations]]
-- [[06 - Vocabulary\|Vocabulary Section]]
+- [[06 - Vocabulary/Vocabulary Overview\|Vocabulary Section]]
 
 ---
 

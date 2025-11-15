@@ -207,7 +207,7 @@ What does the notice tell readers?
 
 For additional practice / Para práctica adicional:
 - [[Reading Part 1 Practice Exercises\|Reading Part 1 Practice Exercises]]
-- [[07 - Practice Tests\|Full Practice Tests]]
+- [[Practice Test Overview\|Full Practice Tests]]
 - Look at real signs in English (online or in real life!)
 
 ---

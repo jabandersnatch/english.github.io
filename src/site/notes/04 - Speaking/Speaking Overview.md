@@ -349,9 +349,9 @@ Can you:
 - [[How to Extend Your Answers\|How to Extend Your Answers]]
 
 ### Other Skills:
-- [[01 - Reading\|Reading Section]]
-- [[02 - Writing\|Writing Section]]
-- [[03 - Listening\|Listening Section]]
+- [[01 - Reading/Reading Overview\|Reading Section]]
+- [[02 - Writing/Writing Overview\|Writing Section]]
+- [[03 - Listening/Listening Overview\|Listening Section]]
 
 ---
 

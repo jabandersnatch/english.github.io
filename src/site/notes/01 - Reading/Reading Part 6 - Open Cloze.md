@@ -344,7 +344,7 @@ Before taking the exam, make sure you know:
 
 - [[01 - Reading/Reading Overview\|← Back to Reading Overview]]
 - [[01 - Reading/Reading Part 5 - Multiple Choice Cloze\|← Previous: Part 5]]
-- [[05 - Grammar\|Grammar Section]] - Study all grammar topics
+- [[05 - Grammar/Grammar Overview\|Grammar Section]] - Study all grammar topics
 - [[Articles - A, An, The\|Articles - A, An, The]]
 - [[Prepositions of Time and Place\|Prepositions of Time and Place]]
 - [[Pronouns\|Pronouns]]
@@ -354,6 +354,6 @@ Before taking the exam, make sure you know:
 
 **Congratulations! / ¡Felicitaciones!** You've completed all 6 Reading parts! 🎉
 
-Now review the [[01 - Reading/Reading Overview\|Reading Overview]] and practice with [[07 - Practice Tests\|Practice Tests]].
+Now review the [[01 - Reading/Reading Overview\|Reading Overview]] and practice with [[Practice Test Overview\|Practice Tests]].
 
 🏠 [[00 - Start Here/🏠 Home - Inicio\|Back to Home]] | [[01 - Reading/Reading Overview\|Back to Reading Overview]]

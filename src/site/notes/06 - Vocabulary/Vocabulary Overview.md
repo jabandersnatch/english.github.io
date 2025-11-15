@@ -215,7 +215,7 @@ Every week, can you:
 
 ## 📚 Additional Resources
 
-- Use vocabulary in [[07 - Practice Tests\|07 - Practice Tests]]
+- Use vocabulary in [[Vocabulary Overview - Practice Tests\|Vocabulary Overview - Practice Tests]]
 - See words in context in exam sections
 - Create personal vocabulary notebook
 - Use online resources: Quizlet, Memrise, Anki
